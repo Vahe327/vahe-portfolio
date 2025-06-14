@@ -41,12 +41,6 @@ Specialized in building secure, scalable DeFi protocols, custom blockchains, cro
 
 ---
 
-### 🔗 **Custom Honeypot Smart Contract System (Private)**
-- R&D honeypot to study MEV bot behavior on the TON blockchain.
-- Realistic fake liquidity, fake router, delayed drains.
-- Not public for security — available on request.
-
----
 
 ### 🔗 **Telegram Mini Apps**
 - Developed multiple **Telegram Mini Apps**:
