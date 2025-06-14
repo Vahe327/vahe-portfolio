@@ -2,56 +2,76 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Web3%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Vahe327&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Vahe327?style=social)](https://github.com/Vahe327)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vahe-aramyan-192272159)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web3+Developer;Blockchain+%26+DeFi+Specialist;Smart+Contract+Developer;Custom+Blockchain+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Web3+Developer;Blockchain+%26+DeFi+Specialist;Smart+Contract+Developer;Custom+Blockchain+Creator;Cross-chain+DEX+Builder" alt="Typing SVG" />
 
-### 💫 **Специализация:** Безопасные, масштабируемые DeFi протоколы | Кастомные блокчейны | Cross-chain DEX | Smart Contracts | Wallet Integrations
+### 💫 **Specialized in:** Secure, Scalable DeFi Protocols | Custom Blockchains | Cross-chain DEX | Smart Contracts | Wallet Integrations
 
 </div>
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🎯 **Обо мне**
+## 🎯 **About Me**
 
-Я создаю и развертываю полные блокчейн экосистемы — от кастомных L1 сетей с майнинг пулами до кроссчейн DEX и wallet инструментов. Глубоко интересуюсь безопасностью DeFi, эффективным роутингом, smart contract оптимизацией и созданием user-friendly финансовых приложений.
+I design and deploy complete blockchain ecosystems — from custom L1 chains with mining pools to cross-chain DEXs and wallet tools. I'm deeply interested in DeFi security, efficient routing, smart contract optimization, and creating user-friendly financial applications.
 
-**🔥 Мой подход:** Быстро учусь, быстро создаю, поставляю надежные инструменты, которые раздвигают границы децентрализованных финансов.
+**🔥 My Approach:** Build fast, learn fast, and deliver robust tools that push the boundaries of decentralized finance.
 
----
+**💡 Current Interests:**
+- 🔸 Production-ready APIs & node services for DEX and wallets
+- 🔸 Quantitative finance: Black-Scholes, Greeks, margin calculations  
+- 🔸 AI × Blockchain: sentiment analysis, bot detection
+- 🔸 Cross-chain interoperability and liquidity aggregation
 
-## 🏆 **Избранные Проекты**
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 **Featured Projects**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+</div>
 
 ### 🌟 **QSwap** - TON Blockchain DEX
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://qswap.fi)
 [![Source Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuantSwap)
 
-**Кастомный DEX интерфейс для TON блокчейна**
-- 🔧 **Tech Stack:** React, Next.js, TailwindCSS, FastAPI
-- 🔄 **Status:** Backend в активной разработке, работает на mock данных
-- 🎯 **Features:** Современный UI/UX, подготовка к full node интеграции
+```yaml
+Description: Custom DEX interface for TON blockchain
+Tech Stack: React, Next.js, TailwindCSS, FastAPI
+Status: Backend in active development, runs on mock data
+Features: Modern UI/UX, preparing for full node integration
+```
 
 ---
 
 ### 💰 **MyWallHub** - Wallet Management Platform
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-10B981?style=for-the-badge&logo=wallet&logoColor=white)](https://swap.mywallhub.online)
 
-**Платформа управления кошельками и выполнения свапов**
-- 🔧 **Tech Stack:** React, Web3.js, Microservices API
-- 🎨 **Features:** Отполированный UI, in-app swaps, wallet management
-- 🔄 **Status:** Backend microservice API в разработке
+```yaml
+Description: Wallet management & swap tool — manage wallets, perform swaps in-app
+Tech Stack: React, Web3.js, Microservices API
+Features: Polished UI, in-app swaps, wallet management
+Status: Backend microservice API in progress
+```
 
 ---
 
 ### ⚡ **Symbiotic DEX** - Cross-chain Trading
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-F59E0B?style=for-the-badge&logo=exchange&logoColor=white)](https://dex.exsymbiotic.com)
 
-**Кроссчейн DEX с поддержкой BSC & ETH**
-- 🌐 **Networks:** Binance Smart Chain, Ethereum
-- 🔧 **Features:** Swaps, Liquidity Provision, Pool Interactions
-- 💡 **Highlights:** Кастомная router логика, multi-chain UI design
+```yaml
+Description: Cross-chain DEX supporting BSC & ETH networks
+Networks: Binance Smart Chain, Ethereum
+Features: Swaps, Liquidity Provision, Pool Interactions
+Highlights: Custom router logic, multi-chain UI design
+```
 
 ---
 
@@ -59,17 +79,19 @@
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-8B5CF6?style=for-the-badge&logo=blockchain&logoColor=white)](https://cryptosymbiotic.com)
 [![Source Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btcsymbiotic)
 
-**Полностью функциональный кастомный блокчейн с нативной монетой BTCS**
+**Fully functional custom blockchain with native coin BTCS**
 
 <details>
-<summary><strong>🔍 Подробные возможности</strong></summary>
+<summary><strong>🔍 Detailed Features</strong></summary>
 
-- 💰 **Native Coin:** BTCS token ecosystem
-- 🏦 **Online Wallets:** Secure web-based wallet interface
-- 🔍 **Blockchain Explorer:** Real-time transaction and block explorer
-- ⛏️ **Mining Pool:** Distributed mining with reward system
-- 🌐 **Full Node:** Complete block production and validation logic
-- 📊 **Network Stats:** Real-time network statistics and metrics
+```yaml
+Native Coin: BTCS token ecosystem
+Online Wallets: Secure web-based wallet interface
+Blockchain Explorer: Real-time transaction and block explorer
+Mining Pool: Distributed mining with reward system
+Full Node: Complete block production and validation logic
+Network Stats: Real-time network statistics and metrics
+```
 
 </details>
 
@@ -78,19 +100,54 @@
 ### 📱 **Telegram Mini Apps Collection**
 [![Contact](https://img.shields.io/badge/💬_Contact_for_Details-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vahe327)
 
-**Коллекция инновационных Telegram Mini Apps**
-- ♟️ **On-chain Chess Game** с TON Coin staking механизмом
-- 🔄 **Micro DEX Tools** для быстрых операций
-- 🖼️ **NFT Viewers** с расширенной функциональностью
-- 🎯 **Custom Solutions** для различных клиентских проектов
+<table>
+<tr>
+<td width="50%">
 
----
+**♟️ On-chain Chess Game**
+- TON Coin staking mechanism
+- Real-time multiplayer
+- Smart contract integration
 
-## 🛠️ **Технический Стек**
+</td>
+<td width="50%">
+
+**🔄 Micro DEX Tools**
+- Quick trading operations
+- Portfolio tracking
+- Price alerts
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🖼️ NFT Viewers**
+- Advanced gallery features
+- Metadata display
+- Collection analytics
+
+</td>
+<td width="50%">
+
+**🎯 Custom Solutions**
+- Client-specific projects
+- Independent deployment
+- Tailored functionality
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### 💻 **Languages & Core Technologies**
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,solidity,react,nextjs,nodejs,fastapi,flask,express,tailwind,postgres,redis,mongodb,docker,aws,gcp,git,github" />
+
+### 💻 **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -127,59 +184,48 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 **Текущий Фокус & Развитие**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-🔹 **Production-ready APIs** и node сервисы для DEX и wallet решений  
-🔹 **Quantitative Finance:** Black-Scholes, Greeks, margin calculations  
-🔹 **AI × Blockchain:** Sentiment analysis, bot detection, ML integration  
-🔹 **Cross-chain Interoperability** и liquidity aggregation  
-🔹 **DeFi Security Research** и smart contract optimization  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vahe327&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahe327&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d"/>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vahe327&theme=tokyonight&background=0d1117&border=30363d)](https://git.io/streak-stats)
+
+<br/>
+
+![Vahe's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vahe327&theme=tokyo-night&hide_border=true&bg_color=0d1117)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 **GitHub Statistics**
+## 🏅 **Achievements & Recognition**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vahe327&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahe327&layout=compact&theme=react"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vahe327&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vahe327&theme=react)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌟 **Contribution Activity**
+## 🤝 **Let's Collaborate!**
 
 <div align="center">
 
-![Vahe's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vahe327&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
-## 🤝 **Давайте Сотрудничать!**
-
-<div align="center">
-
-### 📬 **Связаться со мной**
+### 📬 **Get In Touch**
 
 [![Email](https://img.shields.io/badge/📧_Email-vahe327@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vahe327@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-aramyan-192272159)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vahe327)
 
-### 🔗 **GitHub Profiles**
+### 🔗 **GitHub Organizations**
 
 [![Main GitHub](https://img.shields.io/badge/👨‍💻_Main_Profile-Vahe327-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vahe327)
 [![QuantSwap](https://img.shields.io/badge/🔄_QuantSwap-DEX_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuantSwap)
@@ -187,18 +233,18 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 🚀 **"Давайте построим следующее поколение безопасных, масштабируемых DeFi инструментов вместе!"**
+### 🚀 **"Let's build the next generation of secure, scalable DeFi tools together!"**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-**⭐ Если вам нравятся мои проекты, поставьте звездочку репозиториям!**
+**⭐ If you like my projects, please star the repositories!**
 
-*Создано с ❤️ для Web3 сообщества*
+*Built with ❤️ for the Web3 community*
 
 </div>
