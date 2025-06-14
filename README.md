@@ -12,6 +12,8 @@
 
 ### 💫 **Specialized in:** Secure, Scalable DeFi Protocols | Custom Blockchains | Cross-chain DEX | Smart Contracts | Wallet Integrations
 
+[![🌐 Interactive Portfolio Website](https://img.shields.io/badge/🌐_Interactive_Portfolio-Coming_Soon-6366F1?style=for-the-badge&logo=github-pages&logoColor=white)](#)
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -22,7 +24,7 @@ I design and deploy complete blockchain ecosystems — from custom L1 chains wit
 
 **🔥 My Approach:** Build fast, learn fast, and deliver robust tools that push the boundaries of decentralized finance.
 
-**💡 Current Interests:**
+**💡 Current Focus:**
 - 🔸 Production-ready APIs & node services for DEX and wallets
 - 🔸 Quantitative finance: Black-Scholes, Greeks, margin calculations  
 - 🔸 AI × Blockchain: sentiment analysis, bot detection
@@ -30,13 +32,11 @@ I design and deploy complete blockchain ecosystems — from custom L1 chains wit
 
 <br clear="right"/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🏆 **Featured Projects**
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-</div>
 
 ### 🌟 **QSwap** - TON Blockchain DEX
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://qswap.fi)
@@ -83,6 +83,7 @@ Highlights: Custom router logic, multi-chain UI design
 
 <details>
 <summary><strong>🔍 Detailed Features</strong></summary>
+<br>
 
 ```yaml
 Native Coin: BTCS token ecosystem
@@ -102,21 +103,18 @@ Network Stats: Real-time network statistics and metrics
 
 <div align="center">
 
-| **♟️ On-chain Chess Game** | **🔄 Micro DEX Tools** |
-|---------------------------|------------------------|
-| • TON Coin staking mechanism | • Quick trading operations |
-| • Real-time multiplayer | • Portfolio tracking |
-| • Smart contract integration | • Price alerts |
-
-| **🖼️ NFT Viewers** | **🎯 Custom Solutions** |
-|-------------------|------------------------|
-| • Advanced gallery features | • Client-specific projects |
-| • Metadata display | • Independent deployment |
-| • Collection analytics | • Tailored functionality |
+| **App Type** | **Description** | **Features** |
+|-------------|-----------------|--------------|
+| ♟️ **On-chain Chess** | TON Coin staking mechanism | Real-time multiplayer, Smart contract integration |
+| 🔄 **Micro DEX Tools** | Quick trading operations | Portfolio tracking, Price alerts |
+| 🖼️ **NFT Viewers** | Advanced gallery features | Metadata display, Collection analytics |
+| 🎯 **Custom Solutions** | Client-specific projects | Independent deployment, Tailored functionality |
 
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🛠️ **Tech Stack**
 
@@ -161,36 +159,53 @@ Network Stats: Real-time network statistics and metrics
 
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vahe327&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahe327&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d"/>
+<a href="https://github.com/Vahe327">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vahe327&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d"/>
+</a>
+
+<a href="https://github.com/Vahe327">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahe327&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d"/>
+</a>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vahe327&theme=tokyonight&background=0d1117&border=30363d)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vahe327&theme=tokyonight&background=0d1117&border=30363d" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
-![Vahe's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vahe327&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vahe327&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
+</a>
 
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 🏅 **Achievements & Recognition**
+## 🏅 **GitHub Achievements**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vahe327&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vahe327&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🤝 **Let's Collaborate!**
 
@@ -210,13 +225,13 @@ Network Stats: Real-time network statistics and metrics
 
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
 
 ### 🚀 **"Let's build the next generation of secure, scalable DeFi tools together!"**
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
