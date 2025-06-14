@@ -115,17 +115,38 @@ Network Stats: Real-time network statistics and metrics
 
 ---
 
-### 📱 **Telegram Mini Apps Collection**
-[![Contact](https://img.shields.io/badge/💬_Contact_for_Details-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vahe327)
+## 📱 Telegram Mini Apps Collection
 
 <div align="center">
 
-| **App Category** | **Features** |
-|------------------|--------------|
-| ♟️ **On-chain Chess Game** | • TON Coin staking mechanism<br/>• Real-time multiplayer<br/>• Smart contract integration |
-| 🔄 **Micro DEX Tools** | • Quick trading operations<br/>• Portfolio tracking<br/>• Price alerts |
-| 🖼️ **NFT Viewers** | • Advanced gallery features<br/>• Metadata display<br/>• Collection analytics |
-| 🎯 **Custom Solutions** | • Client-specific projects<br/>• Independent deployment<br/>• Tailored functionality |
+<p>
+<a href="https://t.me/Vahe327">
+  <img src="https://img.shields.io/badge/💬_Contact_for_Details-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact"/>
+</a>
+</p>
+
+<table>
+<tr>
+<th><strong>App Category</strong></th>
+<th><strong>Features</strong></th>
+</tr>
+<tr>
+<td>♟️ <strong>On-chain Chess Game</strong></td>
+<td>• TON Coin staking mechanism<br/>• Real-time multiplayer<br/>• Smart contract integration</td>
+</tr>
+<tr>
+<td>🔄 <strong>Micro DEX Tools</strong></td>
+<td>• Quick trading operations<br/>• Portfolio tracking<br/>• Price alerts</td>
+</tr>
+<tr>
+<td>🖼️ <strong>NFT Viewers</strong></td>
+<td>• Advanced gallery features<br/>• Metadata display<br/>• Collection analytics</td>
+</tr>
+<tr>
+<td>🎯 <strong>Custom Solutions</strong></td>
+<td>• Client-specific projects<br/>• Independent deployment<br/>• Tailored functionality</td>
+</tr>
+</table>
 
 </div>
 
@@ -133,59 +154,59 @@ Network Stats: Real-time network statistics and metrics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,solidity,react,nextjs,nodejs,fastapi,flask,express,tailwind,postgres,redis,mongodb,docker,aws,gcp,git,github" />
 
-### 💻 **Languages & Core**
+<h3>💻 Languages & Core</h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </p>
 
-### 🚀 **Backend & APIs**
+<h3>🚀 Backend & APIs</h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### 🎨 **Frontend & UI**
+<h3>🎨 Frontend & UI</h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
 </p>
 
-### ⛓️ **Blockchain & Web3**
+<h3>⛓️ Blockchain & Web3</h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/TON-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="TON"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 <img src="https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" alt="Binance Smart Chain"/>
 <img src="https://img.shields.io/badge/DeFi_Protocols-FF6B6B?style=for-the-badge" alt="DeFi"/>
 </p>
 
-### 🗄️ **Databases & Storage**
+<h3>🗄️ Databases & Storage</h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### 🛠️ **DevOps & Tools**
+<h3>🛠️ DevOps & Tools</h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -246,37 +267,45 @@ Network Stats: Real-time network statistics and metrics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🤝 **Let's Collaborate!**
+## 🤝 Let's Collaborate!
 
 <div align="center">
 
-### 📬 **Get In Touch**
+<h3>📬 Get In Touch</h3>
 
-<p align="center">
+<p>
 <a href="mailto:vahe327@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-vahe327@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<br/>
+</p>
+
+<p>
 <a href="https://www.linkedin.com/in/vahe-aramyan-192272159">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<br/>
+</p>
+
+<p>
 <a href="https://t.me/Vahe327">
   <img src="https://img.shields.io/badge/💬_Telegram-Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </p>
 
-### 🔗 **GitHub Organizations**
+<h3>🔗 GitHub Organizations</h3>
 
-<p align="center">
+<p>
 <a href="https://github.com/Vahe327">
   <img src="https://img.shields.io/badge/👨‍💻_Main_Profile-Vahe327-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub"/>
 </a>
-<br/>
+</p>
+
+<p>
 <a href="https://github.com/QuantSwap">
   <img src="https://img.shields.io/badge/🔄_QuantSwap-DEX_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="QuantSwap"/>
 </a>
-<br/>
+</p>
+
+<p>
 <a href="https://github.com/btcsymbiotic">
   <img src="https://img.shields.io/badge/⛓️_BTCS-Blockchain_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="BTCS"/>
 </a>
@@ -290,12 +319,12 @@ Network Stats: Real-time network statistics and metrics
 
 <div align="center">
 
-### 🚀 **"Let's build the next generation of secure, scalable DeFi tools together!"**
+<h3>🚀 "Let's build the next generation of secure, scalable DeFi tools together!"</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-**⭐ If you like my projects, please star the repositories!**
+<p><strong>⭐ If you like my projects, please star the repositories!</strong></p>
 
-*Built with ❤️ for the Web3 community*
+<p><em>Built with ❤️ for the Web3 community</em></p>
 
 </div>
