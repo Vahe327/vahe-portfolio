@@ -20,7 +20,9 @@
 </a>
 </p>
 
+<p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Web3+Developer;Blockchain+%26+DeFi+Specialist;Smart+Contract+Developer;Custom+Blockchain+Creator;Cross-chain+DEX+Builder" alt="Typing SVG" />
+</p>
 
 <h3>💫 Specialized in:</h3>
 <p><strong>Secure, Scalable DeFi Protocols | Custom Blockchains | Cross-chain DEX | Smart Contracts | Wallet Integrations</strong></p>
