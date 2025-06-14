@@ -100,44 +100,21 @@ Network Stats: Real-time network statistics and metrics
 ### 📱 **Telegram Mini Apps Collection**
 [![Contact](https://img.shields.io/badge/💬_Contact_for_Details-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vahe327)
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**♟️ On-chain Chess Game**
-- TON Coin staking mechanism
-- Real-time multiplayer
-- Smart contract integration
+| **♟️ On-chain Chess Game** | **🔄 Micro DEX Tools** |
+|---------------------------|------------------------|
+| • TON Coin staking mechanism | • Quick trading operations |
+| • Real-time multiplayer | • Portfolio tracking |
+| • Smart contract integration | • Price alerts |
 
-</td>
-<td width="50%">
+| **🖼️ NFT Viewers** | **🎯 Custom Solutions** |
+|-------------------|------------------------|
+| • Advanced gallery features | • Client-specific projects |
+| • Metadata display | • Independent deployment |
+| • Collection analytics | • Tailored functionality |
 
-**🔄 Micro DEX Tools**
-- Quick trading operations
-- Portfolio tracking
-- Price alerts
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🖼️ NFT Viewers**
-- Advanced gallery features
-- Metadata display
-- Collection analytics
-
-</td>
-<td width="50%">
-
-**🎯 Custom Solutions**
-- Client-specific projects
-- Independent deployment
-- Tailored functionality
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
