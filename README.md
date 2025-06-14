@@ -22,8 +22,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Web3+Developer;Blockchain+%26+DeFi+Specialist;Smart+Contract+Developer;Custom+Blockchain+Creator;Cross-chain+DEX+Builder" alt="Typing SVG" />
 
-### 💫 **Specialized in:** 
-**Secure, Scalable DeFi Protocols | Custom Blockchains | Cross-chain DEX | Smart Contracts | Wallet Integrations**
+<h3>💫 Specialized in:</h3>
+<p><strong>Secure, Scalable DeFi Protocols | Custom Blockchains | Cross-chain DEX | Smart Contracts | Wallet Integrations</strong></p>
 
 <p>
 <a href="#">
@@ -125,30 +125,14 @@ Network Stats: Real-time network statistics and metrics
 </a>
 </p>
 
-<table>
-<tr>
-<th><strong>App Category</strong></th>
-<th><strong>Features</strong></th>
-</tr>
-<tr>
-<td>♟️ <strong>On-chain Chess Game</strong></td>
-<td>• TON Coin staking mechanism<br/>• Real-time multiplayer<br/>• Smart contract integration</td>
-</tr>
-<tr>
-<td>🔄 <strong>Micro DEX Tools</strong></td>
-<td>• Quick trading operations<br/>• Portfolio tracking<br/>• Price alerts</td>
-</tr>
-<tr>
-<td>🖼️ <strong>NFT Viewers</strong></td>
-<td>• Advanced gallery features<br/>• Metadata display<br/>• Collection analytics</td>
-</tr>
-<tr>
-<td>🎯 <strong>Custom Solutions</strong></td>
-<td>• Client-specific projects<br/>• Independent deployment<br/>• Tailored functionality</td>
-</tr>
-</table>
-
 </div>
+
+| **App Category** | **Features** |
+|------------------|--------------|
+| ♟️ **On-chain Chess Game** | • TON Coin staking mechanism<br/>• Real-time multiplayer<br/>• Smart contract integration |
+| 🔄 **Micro DEX Tools** | • Quick trading operations<br/>• Portfolio tracking<br/>• Price alerts |
+| 🖼️ **NFT Viewers** | • Advanced gallery features<br/>• Metadata display<br/>• Collection analytics |
+| 🎯 **Custom Solutions** | • Client-specific projects<br/>• Independent deployment<br/>• Tailored functionality |
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
