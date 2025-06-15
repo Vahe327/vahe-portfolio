@@ -272,7 +272,7 @@ Network Stats: Real-time network statistics and metrics
 </p>
 
 <p>
-<a href="https://t.me/Vahe327">
+<a href="https://t.me/Va_devs">
   <img src="https://img.shields.io/badge/💬_Telegram-Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </p>
